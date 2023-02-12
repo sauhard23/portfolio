@@ -1,0 +1,11 @@
+img{
+    width:200px;
+    height:200px;
+}
+hr{
+    border-top: 5px dotted black;
+}
+
+.center{
+    text-align:center
+}

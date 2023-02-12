@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+hr{
+    border-top: 5px dotted black;
+}
+p{
+    font-size: 100%;
+}
+
+strong{
+    font-size: 115%;
+}
+span{
+    float:right
+}
+a:link{
+    text-decoration: none;
+    color:darkkhaki;
+}
+
+a:visited{
+    text-decoration: none;
+    color:red;
+}
